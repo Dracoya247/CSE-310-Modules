@@ -8,7 +8,7 @@ I attempted to create a text-based version of Pokemon by creating an inheritance
 
 I decided to write this program because I enjoy creating games and testing my abilities as a programmer. While this project is unfinished for the time being, I will definitely come back to it when I have time.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=q73Wo1CzOx8))
+[Software Demo Video](https://www.youtube.com/watch?v=q73Wo1CzOx8)
 
 # Development Environment
 
