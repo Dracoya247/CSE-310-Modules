@@ -1,0 +1,46 @@
+{
+    "index" : [
+        {
+            "id" : 0,
+            "name" : "TACKLE",
+            "type" : 0,
+            "power" : 40,
+            "accuracy" : 100
+        },
+        {
+            "id" : 1,
+            "name" : "FLAMETHROWER",
+            "type" : 1,
+            "power" : 40,
+            "accuracy" : 100
+        },
+        {
+            "id" : 2,
+            "name" : "RAZOR LEAF",
+            "type" : 2,
+            "power" : 40,
+            "accuracy" : 100
+        },
+        {
+            "id" : 3,
+            "name" : "BUBBLE BEAM",
+            "type" : 3,
+            "power" : 40,
+            "accuracy" : 100
+        },
+        {
+            "id" : 4,
+            "name" : "FAIRY PUNCH",
+            "type" : 4,
+            "power" : 40,
+            "accuracy" : 100
+        },
+        {
+            "id" : 5,
+            "name" : "BITE",
+            "type" : 5,
+            "power" : 40,
+            "accuracy" : 100
+        }
+    ]
+}
